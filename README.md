@@ -20,6 +20,9 @@ Homebase is currently in **Alpha** (invitation-only for the hosted version - the
 - Optional at-home “table-top” hosting
 - Everything is fully encrypted at rest and in transit
 - Open-source (AGPL-3.0) FLOSS
+- Global Single-sign-on (SSO)
+- Digital signatures and W3C web:DID identifiers
+- W3C Verifiable Credentials (VC)
 
 ## Repository Overview
 
