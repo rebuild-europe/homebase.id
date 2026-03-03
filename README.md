@@ -14,9 +14,9 @@ Homebase is currently in **Alpha** (invitation-only for the hosted version - the
 - Self-sovereign identity (SSI) (your identity = your domain)
 - App platform, quickly build & deploy secure decentralized apps
 - End-to-end encrypted private messaging & storage
-- Personal social feed & network (only people you trust)
+- Personal social feed (sample app) & network (only people you trust)
 - Web presence tools: link-tree, personal homepage, bio, CV, blog
-- Built-in app platform (Chat, Feed, Photos, Mail, Link Tree, Communities…)
+- Built-in sample apps (Chat, Feed, Photos, Mail, Link Tree, Communities…)
 - YouAuth — federated authentication (more secure peer to peer version of OAuth)
 - Optional at-home “table-top” hosting
 - Everything is fully encrypted at rest and in transit
