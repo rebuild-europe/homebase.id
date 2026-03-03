@@ -10,8 +10,9 @@ Homebase is currently in **Alpha** (invitation-only for the hosted version - the
 
 ## Key Features
 
-- Fully distributed network (nobody controls it)
-- Self-sovereign identity (your identity = your domain)
+- Fully decentralized network (nobody controls it)
+- Self-sovereign identity (SSI) (your identity = your domain)
+- App platform, quickly build & deploy secure decentralized apps
 - End-to-end encrypted private messaging & storage
 - Personal social feed & network (only people you trust)
 - Web presence tools: link-tree, personal homepage, bio, CV, blog
