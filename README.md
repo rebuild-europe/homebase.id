@@ -2,7 +2,7 @@
 
 **Your home on the Internet** — a fully distributed, self-sovereign platform for private communications, secure storage, personal social networking, web presence, and self-sovereign identity management (with SSO, verification, digital signatures). Everything is owned and controlled by *you*. Most importantly Homebase is an App Platform that allows anyone to write decentralized privacy focused secure apps with little effort.
 
-Your identity is simply a domain name (e.g. `yourname.dotyou.cloud`) - you can even get one for free. There is no central company, no single server farm, and no gatekeeper controlling the network, and can be hosted anywhere, even on your kitchen table, and yet it's unlike other decentralized system it's working just as simply as any other App you're used to and fully based on open Internet standards.
+Your identity is simply a domain name (e.g. `yourname.dotyou.cloud`) - you can even get one for free. There is no central company, no single server farm, and no gatekeeper controlling the network, and can be hosted anywhere, even on your kitchen table, and yet unlike other decentralized system it's working just as simply as any other App you're used to and fully based on open Internet standards.
 
 Homebase is currently in **Alpha** (invitation-only for the hosted version - the passphrase for Rebuild.net is: rebuild ). This repository submission for **Rebuild.net** includes the core infrastructure plus working prototypes for key social features (Chat with Signal-like UX, Feed, Photos, etc.). All is available as open-source FLOSS AGPL3.
 
