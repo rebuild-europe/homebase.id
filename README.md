@@ -40,7 +40,7 @@ Homebase is currently in **Alpha** (invitation-only for the hosted version - the
 ### 1a. Try it out.
 Go to https://homebase.id/
 Sign-up
-use the pass-phrase: rebuild
+use the pass-phrase: *rebuild*
 
 Search for Homebase.id on the App-store (previous generation Chat app, soon to be replaced with the one above)
 
